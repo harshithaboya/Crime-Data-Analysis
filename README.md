@@ -70,7 +70,7 @@ This project aims to classify crime clearance times into three categories—**Fa
 
 Random Forest was the most reliable model for predicting crime clearance speed in Austin. The pipeline can be adapted to other cities or datasets with minor tuning.
 
-## 📚 References
+##  References
 
 * City of Austin Crime Reports Dataset: [Link](https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu)
 * Austin Police Department: [Website](https://apdaustintx.govqa.us/)
